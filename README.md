@@ -1,4 +1,4 @@
-# Driving Data Quality with Data Contracts
+# Managing data as a product
 
 This is the code repository for [Managing data as a product], published by Packt.
 
