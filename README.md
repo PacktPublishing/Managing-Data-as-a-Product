@@ -17,7 +17,7 @@ This book covers everything you need to know to manage data as a product and shi
 
 
 ## Get to Know the Author
-**Andrea Gioia** is a Partner and CTO at Quantyca, a consulting company specializing in data management. He is also a co-founder of blindata.io, a SaaS platform focused on data governance and compliance. With 20+ years of experience, he leads teams in executing complex data projects across sectors like banking, utilities, retail, and industry. As Quantyca's CTO, Andrea advises clients on data strategy, emphasizing organizational and change management issues. Actively engaged in the data community, he organizes the Data Engineering Italian Meetup, leads the Open Data Mesh Initiative, and is one of the main contributors to the data product descriptor open specification. Andrea is an active member of the scientific committee of the DAMA Italian Chapter.
+**Andrea Gioia** is a Partner and CTO at Quantyca, a consulting company specializing in data management. He is also a co-founder of blindata.io, a SaaS platform focused on data governance and compliance. With 20+ years of experience, he leads teams in executing complex data projects across sectors like banking, utilities, retail, and industry. As Quantyca's CTO, Andrea advises clients on data strategy, emphasizing organizational and change management issues. Actively engaged in the data community, he organizes the Data Engineering Italian Meetup, leads the Open Data Mesh Initiative, and is one of the main contributors to the data product descriptor open specification. Andrea is an active member of the scientific committee of the DAMA Italian Chapter. [More...](https://github.com/andrea-gioia) 
 
 
 
