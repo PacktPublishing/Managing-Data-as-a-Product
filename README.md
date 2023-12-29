@@ -1,6 +1,6 @@
 # Managing data as a product
 
-<a href="https://www.amazon.com/Driving-Data-Quality-Contracts-comprehensive/dp/1837635005/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781801810135"><img src="https://m.media-amazon.com/images/I/81+QpXfjD9L._SL1500_.jpg" alt="Shipping & Fee Details" height="256px" align="right"></a>
+<img src="./Cover/Book-Cover.png" alt="Shipping & Fee Details" height="256px" align="right">
 
 This is the code repository for [Managing data as a product](#), published by Packt.
 
