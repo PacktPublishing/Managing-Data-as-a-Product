@@ -1,8 +1,8 @@
 # Managing data as a product
 
-<img src="./Cover/Book-Cover.png" alt="Shipping & Fee Details" height="256px" align="right">
+<a href="https://amzn.eu/d/2a7Tmi1"><img src="./Cover/Book-Cover.png" alt="Shipping & Fee Details" height="256px" align="right"></a>
 
-This is the code repository for [Managing data as a product](#), published by Packt.
+This is the code repository for [Managing data as a product](https://amzn.eu/d/2a7Tmi1), published by Packt.
 
 **A comprehensive guide to design and build data product-centered sociotechnical architectures**
 
