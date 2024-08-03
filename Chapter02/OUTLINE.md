@@ -1,4 +1,4 @@
-# 01 - From data as a by-product to data as a product
+# 02: Data product’s anatomy 
 
 ## Description
 In this chapter, we will explore what exactly a data product is, defining the concepts of data product, pure data product, and analytical application. 
@@ -43,11 +43,11 @@ Finally, we will examine some commonly adopted methods for classifying data prod
 * [Figure 2.5 - Linear data value stream with pure data products in the MIDDLE](./images/chapter-02-Fig-05-PDP-in-the-middle.png)
 * [Figure 2.6 - Circular data value stream with pure data products in the CENTER ](/images/chapter-02-Fig-06-PDP-in-the-center.png)
 * [Figure 2.7 - Pure data product illities](/images/chapter-02-Fig-07-PDP-Characteristics.png)
-* [Figure 2.8- Data Value versus Volume]()
-* [Figure 2.9- Data Value versus Time]()
-* [Figure 2.10- Data Value versus Accuracy]()
-* [Figure 2.11- Data Value versus Usage]()
-* [Figure 2.12- Data Value versus Integration]()
+* [Figure 2.8- Data Value versus Volume](./images/chapter-02-Fig-08-Data-value-vs-volume.png)
+* [Figure 2.9- Data Value versus Time](./images/chapter-02-Fig-09-Data-value-vs-time.png)
+* [Figure 2.10- Data Value versus Accuracy](./images/chapter-02-Fig-10-Data-value-vs-accuracy.png.drawio.png)
+* [Figure 2.11- Data Value versus Usage](./images/chapter-02-Fig-11-Data-value-vs-usage.png.drawio.png)
+* [Figure 2.12- Data Value versus Integration](./images/chapter-02-Fig-12-Data-value-vs-integration.png.drawio.png)
 * [Figure 2.13 - Pure data product’s anatomy](./images/chapter-02-Fig-13-PDP-anatomy.png)
 * [Figure 2.14 - Pure data product’s interfaces](./images/chapter-02-Fig-14-Ports.png)
 
