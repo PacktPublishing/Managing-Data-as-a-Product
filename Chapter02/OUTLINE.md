@@ -1,4 +1,4 @@
-# 01 - From data as a by-product to data as a product
+# 02: Data product’s anatomy 
 
 ## Description
 In this chapter, we will explore what exactly a data product is, defining the concepts of data product, pure data product, and analytical application. 
