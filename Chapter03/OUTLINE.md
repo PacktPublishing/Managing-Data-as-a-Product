@@ -1,9 +1,9 @@
 # 03: Data product-centered architectures
 
 ## Description
-In this chapter will analyze the principles that underpin a data product-centered architecture and its main components. 
-Recognizing that a data management solution is a complex socio-technological system, we'll seamlessly blend our analysis of organizational architecture with that of technological architecture. 
-Finally, we'll showcase alternative approaches to modern data management and examine how they architecturally align with the data-centric product management approach. 
+In this chapter, we will analyze the principles underpinning a data product-centered architecture and its main components. 
+Recognizing that a data management solution is a complex socio-technological system, we'll seamlessly blend our organizational and technological architecture analysis. We will use the Viable System Model as our reference framework for this analysis, first examining the operational capabilities that a data management function, focused on managing data as a product, must possess. We will then look at the management capabilities necessary to oversee operational activities and align them with the data strategy and, more broadly, with the overall business strategy of the organization.
+Finally, we will explore some other modern approaches to data management and compare them with the data-as-product paradigm to understand common elements and key differences.
 
 ## Chapter Headings  
 * **Designing a data product-centric architecture**
@@ -30,8 +30,10 @@ Finally, we'll showcase alternative approaches to modern data management and exa
  
 ## Skills learned
 * **SKILL 1:** Understand the key principles to ensure that the modular architecture, crafted as the composition of diverse data products, maintains coherency and scalability at a systemic level. 
-* **SKILL 2:** Knowledge of the most popular approaches to constructing architectures centered around the concept of data products and how these approaches translate key principles into actionable practices. 
-* **SKILL 3:** Understand how the described approaches relate to each other, their points of contact, and divergence. 
+* **SKILL 2:** Understand the management and operational capabilities needed to build an architecture centered on data products, and how these capabilities work together to translate foundational principles of this type of architecture into actionable practices.
+* **SKILL 3:** Understand how the described approaches relate to each other, their points of contact, and divergence.
+
+  Understand what are the most popular alternative approches to data management and how the are related to the paradigm of managing data as a product
  
 
 ## Image list
