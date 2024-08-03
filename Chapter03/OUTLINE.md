@@ -35,8 +35,21 @@ Finally, we'll showcase alternative approaches to modern data management and exa
  
 
 ## Image list
-* []()
-
+* [Figure 3.1 - System Architecture](./images/chapter-03-Fig-01-System-architecture.png)
+* [Figure 3.2 - Continuous Architecture Evolution](./images/chapter-03-Fig-02-Continous-architecture.png)
+* [Figure 3.3 - Sociotechnical system](./images/chapter-03-Fig-03-Sociotechnical-systems.png)
+* [Figure 3.4 - Sociotechnical system architecture](./images/chapter-03-Fig-04-Sociotechnical-system-architecture.png)
+* [Figure 3.5 - Viable System Model (VSM)](./images/chapter-03-Fig-05-S-Viable-system-model.png)
+* [Figure 3.6 - Data Management Function](./images/chapter-03-Fig-06-Data-management-function.png)
+* [Figure 3.7 Data Management Function’s core capabilities](./images/chapter-03-Fig-07-Operational-plane.png)
+* [Figure 3.8 - Governance policy making scope](./images/chapter-03-Fig-08-Governance-policy-scope.png)
+* [Figure 3.9 - XOps Platform](./images/chapter-03-Fig-09-Xops-platform.png)
+* [Figure 3.10 - XOps Platform Planes](./images/chapter-03-Fig-10-Xops-platform-planes.png)
+* [Figure 3.11 - Operating Model](./images/chapter-03-Fig-11-Operational-model.png)
+* [Figure 3.12 - Data mesh](./images/chapter-03-Fig-12-Data-mesh.png)
+* [Figure 3.13 - Data fabric](./images/chapter-03-Fig-13-Data-fabric.png)
+* [Figura 3.14 - Data-centric approach](./images/chapter-03-Fig-14-Data-centric.png)
+* [Figura 3.15 - Dataware](./images/chapter-03-Fig-15-Dataware.png)
 
 ## Further reading 
 For more information on the topics covered in this chapter, please see the following resources: 
