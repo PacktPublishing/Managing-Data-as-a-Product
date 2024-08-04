@@ -1,4 +1,4 @@
-# 01 - From data as a by-product to data as a product
+# 04 - Identifying data products and prioritizing developments
 
 ## Description
 In this chapter, we will see how to identify data products and prioritize their development following a use case-driven
