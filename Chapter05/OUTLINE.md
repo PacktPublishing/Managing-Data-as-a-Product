@@ -26,7 +26,7 @@ and serving data.
  
 ## Skills learned
 * **SKILL 1**: Ability to accurately define the scope of a data product and accordingly design the
-relationship with external ecosystem through context mapping
+relationship with the external ecosystem through context mapping
 * **SKILL 2**: Ability to manage the discovery, interpretation, and acquisition of data used by the
 data product, sourced from both other data products and external application systems.
 * **SKILL 3**: Skill in crafting internal data transformations while striking the optimal balance
@@ -37,14 +37,18 @@ enhance its accessibility and reuse across various use cases.
 utilization by potential consumers and to facilitate the automation of its life cycle.
 
 ## Image list
-* [](.)
-* [](.)
-* [](.)
-* [](.)
-* [](.)
-* [](.)
-* [](.)
-* [](.)
+* [Figure 5.1 - Data product local context](./images/chapter-05-Fig-01-Data-product-local-context.png)
+* [Figure 5.2 - Digital Sales Data Product’s local environment](./images/chapter-05-Fig-02-Digital-sales-product-local-environment.png)
+* [Figure 5.3 - Data exchange modalities](./images/chapter-05-Fig-03-Data-exchange-modalities.png)
+* [Figure 5.4 - External Systems](./images/chapter-05-Fig-04-External-systems.png)
+* [Figure 5.5 - Data product map](./images/chapter-05-Fig-05-Data-product-map.png)
+* [Figure 5.6 - Context map](./images/chapter-05-Fig-06-Context-map.png)
+* [Figure 5.7 - Data product internal components ](./images/chapter-05-Fig-07-Data-product-internals.png)
+* [Figure 5.8 - Data product descriptor structure](./images/chapter-05-Fig-08-DPDS-structure.png)
+* [Figure 5.9 - Promises Object Structure](./images/chapter-05-Fig-09-Promises-object.png)
+* [Figure 5.10 - Standard Definition Object Structure](./images/chapter-05-Fig-10-Standard-definition-object.png)
+* [Figure 5.11 - Expectations Object Structure ](./images/chapter-05-Fig-11-Expectations-object.png)
+* [Figure 5.12 - Obligations Object Structure ](./images/chapter-05-Fig-12-Obligations-object.png)
 
 
 ## Further reading 
