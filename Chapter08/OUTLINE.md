@@ -1,13 +1,14 @@
 # 08 - Moving through the adoption journey 
 
 ## Description
-We'll see how to successfully move through the adoption journey of the data-as-a-product
-paradigm.
+In this chapter, we'll see how to successfully move through the adoption journey of the managing data-as-a-product paradigm. 
 We will first analyze how a new paradigm spreads within an organization by introducing the main
-phases of the adoption journey. Next, we'll delve deeper into each phase, exploring its objectives,
+phases of the adoption journey. 
+Next, we'll delve deeper into each phase, exploring its objectives,
 the unique challenges it presents, and the critical organizational and operational activities required
-at each step. Finally, we will see how to define a data strategy that can evolve agilely in the different 
-phases of the adoption journey, adapting to the needs of each of them, making full use of what has
+at each step to start managing data as a product. 
+Finally, we will see how to define a data strategy that can evolve agilely in the different 
+phases of the adoption journey, adapting to the needs of each of them, and making full use of what has
 been learned in the previous phases.
 
 ## Chapter Headings  
@@ -43,10 +44,10 @@ been learned in the previous phases.
 ## Skills learned
 * **SKILL 1**: Grasping how to structure the assessment phase, paying particular attention to the
 stakeholders to engage, the activities to undertake, and the deliverables to generate
-* **SKILL 2**: Understand how to start by choosing key platform capabilities in the boostrap phase
-and initiating the first data products , maximizing organizational buy-in for the subsequent
+* **SKILL 2**: Understand how to start by choosing key platform capabilities in the bootstrap phase
+and initiating the first data products, maximizing organizational buy-in for the subsequent
 scaling.
-* **SKILL 3**: Understand how to scale the adoption beyond the boostrap phase incrementally
+* **SKILL 3**: Understand how to scale the adoption beyond the bootstrap phase incrementally
 onboard the whole organization
 * **SKILL 4**: The ability to define, monitor, and evolve key elements of the strategy throughout
 all the stages of the adoption journey.
