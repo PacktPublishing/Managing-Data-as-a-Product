@@ -46,13 +46,13 @@ allocating budget, and monitoring results
 * [Figure 4.9 – LuX business capabilities ](./images/chapter-04-Fig-09-Business-capabilities.png)
 * [Figure 4.10 – LuX “Complete purchase” value stream](./images/chapter-04-Fig-10-Value-stream.png)
 * [Figure 4.11 – Capability mapping approaches](./images/chapter-04-Fig-11-Capability-mapping.png)
-* [Figure 4.12 – Business architecture elements and relationships]()
-* [Figure 4.14 – Events and commands flow]()
-* [Figure 4.15 – Event storming components and relationships]()
-* [Figure 4.16 – Complete purchase process analysis]()
-* [Figure 4.17 – Inventory data product]()
-* [Figure 4.18 – Identified data products]()
-* [Figure 4.19 – Data product canvas ]()
+* [Figure 4.12 – Business architecture elements and relationships](./images/chapter-04-Fig-12-Business-architecture-elements.png)
+* [Figure 4.13 – Events and commands flow](./images/chapter-04-Fig-13-Events-and-actions.png)
+* [Figure 4.14 – Event storming components and relationships](./images/chapter-04-Fig-14-Events-storming-components.png)
+* [Figure 4.15 – Complete purchase process analysis](./images/chapter-04-Fig-15-Complete-purchase-events-flow.png)
+* [Figure 4.16 – Inventory data product](./images/chapter-04-Fig-16-Inventory-dp.png)
+* [Figure 4.17 – Identified data products](./images/chapter-04-Fig-17-Identified-dps.png)
+* [Figure 4.18 – Data product canvas ](./images/chapter-04-Fig-18-Data-product-canvas.png)
 
 ## Further reading 
 For more information on the topics covered in this chapter, please see the following resources: 
