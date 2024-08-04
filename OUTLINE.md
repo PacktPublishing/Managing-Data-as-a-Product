@@ -20,10 +20,24 @@ platform analyzing its core capabilities, architecture, and implementation optio
 
 ## Chapters
 * [Chapter 04 - Identifying data products and prioritizing developments](./Chapter04/OUTLINE.md)
+* [Chapter 05 - Designing and implementing data products](./Chapter05/OUTLINE.md)
+* [Chapter 06 - Operating data products in production](./Chapter06/OUTLINE.md)
+* [Chapter 07 - Automating data product’s lifecycle management](./Chapter07/OUTLINE.md)
 
 # SECTION TWO: Data product strategy
 
 ## Description
-TODO
+We will explore how to design and implement an incremental, value-driven strategy for successfully
+adopting architectures centered on data products. We'll analyze key elements of the strategy and
+how to define them in the early stages of the adoption journey. Understanding how to kickstart the
+initiative and secure buy-in from key stakeholders will be covered. Subsequently, we'll examine how
+to scale adoption across the enterprise by fostering a data-driven culture based on the principle of
+managing data as a product. Finally, we'll delve into data modeling in a distributed environment,
+emphasizing how modeling, both at the physical and conceptual levels, is a crucial element for fully
+leveraging the potential offered by modern generative AI solutions.
+
 ## Chapters
-* [Chapter 0X - XXX](./Chapter04/OUTLINE.md)
+* [Chapter 08 - Moving through the adoption journey](./Chapter08/OUTLINE.md)
+* [Chapter 09 - : Team topologies and data ownership at scale](./Chapter09/OUTLINE.md)
+* [Chapter 10 - Distributed data modeling](./Chapter10/OUTLINE.md)
+* [Chapter 11 - Data product strategy and Generative AI](./Chapter11/OUTLINE.md)
