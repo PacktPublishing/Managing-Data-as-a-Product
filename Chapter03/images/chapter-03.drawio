@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T06:57:50.943Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="eEKrc03L2300Z8yQpeig" version="24.6.4" type="google" pages="16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="16">
   <diagram id="s__5OzS5CffsZftL_kgy" name="Fig-01-System-architecture">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -184,51 +184,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Fig-04- Sociotechnical-system-architecture " id="pt6U38hrfXdGu1oygouR">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-0" />
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-1" parent="GEQAFUt_IVy_jWQWY9Je-0" />
-        <mxCell id="EHgp3DIVJoOiXR6NwG7Z-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="132.5" y="-30" width="650" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-4" value="Sociotechnical Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontFamily=Architects Daughter;fontStyle=1" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="132.5" y="-17" width="647.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="185" y="66" width="260" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="215" y="206" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-11" value="Core&lt;br&gt;&amp;nbsp;Architecture" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="215" y="206" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-12" value="Social &lt;br&gt;Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontStyle=1" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="215" y="66" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="480" y="66" width="260" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="510" y="206" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-17" value="Core&lt;br&gt;Architecture" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="510" y="206" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GEQAFUt_IVy_jWQWY9Je-18" value="Technological Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontStyle=1" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="510" y="66" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wzyKFA0rjk4U6b31t_OW-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="215" y="130" width="485" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wzyKFA0rjk4U6b31t_OW-1" value="&lt;b&gt;Meta Architecture&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
-          <mxGeometry x="215" y="130" width="485" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="BSJ-uwNqxH5X6IBZ8zmh" name="Sociotechnical Systems">
+  <diagram id="BSJ-uwNqxH5X6IBZ8zmh" name="Fig-03-Sociotechnical-systems">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -386,7 +342,51 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Viable-system-model" id="xOMY14GhT4LpY3NOu0mZ">
+  <diagram name="Fig-04-Sociotechnical-system-architecture " id="pt6U38hrfXdGu1oygouR">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-0" />
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-1" parent="GEQAFUt_IVy_jWQWY9Je-0" />
+        <mxCell id="EHgp3DIVJoOiXR6NwG7Z-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="132.5" y="-30" width="650" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-4" value="Sociotechnical Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontFamily=Architects Daughter;fontStyle=1" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="132.5" y="-17" width="647.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="185" y="66" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="215" y="206" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-11" value="Core&lt;br&gt;&amp;nbsp;Architecture" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="215" y="206" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-12" value="Social &lt;br&gt;Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontStyle=1" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="215" y="66" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="480" y="66" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="510" y="206" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-17" value="Core&lt;br&gt;Architecture" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="510" y="206" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQAFUt_IVy_jWQWY9Je-18" value="Technological Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontStyle=1" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="510" y="66" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzyKFA0rjk4U6b31t_OW-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="215" y="130" width="485" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzyKFA0rjk4U6b31t_OW-1" value="&lt;b&gt;Meta Architecture&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="GEQAFUt_IVy_jWQWY9Je-1">
+          <mxGeometry x="215" y="130" width="485" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Fig-05-S-Viable-system-model" id="xOMY14GhT4LpY3NOu0mZ">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="IvXLzeIDMfQyMXdKQoDK-0" />
@@ -753,7 +753,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Data-management-function" id="sTH4PZYult50PrmLtoT-">
+  <diagram name="Fig-06-Data-management-function" id="sTH4PZYult50PrmLtoT-">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1197,7 +1197,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Operational-plane" id="0GHOVPtpCjOaiYF-dSvq">
+  <diagram name="Fig-07-Operational-plane" id="0GHOVPtpCjOaiYF-dSvq">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="C-ZrikvuwTonyHMI1FHj-0" />
@@ -1322,7 +1322,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="X8P26NDL2gFconF5fbfl" name="governance-policy-scope">
+  <diagram id="X8P26NDL2gFconF5fbfl" name="Fig-08-Governance-policy-scope">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1408,7 +1408,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fpuKw5UdDGUiHS_1fJan" name="xops platform">
+  <diagram id="fpuKw5UdDGUiHS_1fJan" name="Fig-09-Xops platform">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1524,7 +1524,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="O2DiqDMvsgRs4v3nXIvB" name="xops-platform-planes">
+  <diagram id="O2DiqDMvsgRs4v3nXIvB" name="Fig-10-Xops-platform-planes">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1762,7 +1762,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HW68828UXa3O-sf0Tx46" name="operational-model">
+  <diagram id="HW68828UXa3O-sf0Tx46" name="Fig-11-Operational-model">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2178,7 +2178,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HCkiKjGeSbUpEMUSmWQ3" name="data-mesh">
+  <diagram id="HCkiKjGeSbUpEMUSmWQ3" name="Fig-12-Data-mesh">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2252,7 +2252,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="k_QRTRGsJjuYBcuuKlqQ" name="data-fabric">
+  <diagram id="k_QRTRGsJjuYBcuuKlqQ" name="Fig-13-Data-fabric">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2281,7 +2281,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="JgudXPB5U8DkxHvQTr_y" name="data-centric">
+  <diagram id="JgudXPB5U8DkxHvQTr_y" name="Fig-14-Data-centric">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2375,7 +2375,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="jiusVSfiIoTaUXi0M_mn" name="dataware">
+  <diagram id="jiusVSfiIoTaUXi0M_mn" name="Fig-15-Dataware">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
