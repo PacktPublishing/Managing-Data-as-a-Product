@@ -11,10 +11,6 @@ We'll delve into the rationale behind and the implications of treating data as a
 # SECTION TWO: Data product lifecycle
 
 ## Description
-
-# SECTION TWO: Data product strategy
-
-## Description
 We will explore how to manage a data product throughout its lifecycle. We'll begin by examining
 how to identify the data products to develop, prioritize them using a use-case-driven approach, and
 model them based on requirements. We will then look at how to handle releases and data product
@@ -24,3 +20,10 @@ platform analyzing its core capabilities, architecture, and implementation optio
 
 ## Chapters
 * [Chapter 04 - Identifying data products and prioritizing developments](./Chapter04/OUTLINE.md)
+
+# SECTION TWO: Data product strategy
+
+## Description
+TODO
+## Chapters
+* [Chapter 0X - XXX](./Chapter04/OUTLINE.md)
