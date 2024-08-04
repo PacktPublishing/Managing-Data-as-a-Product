@@ -35,17 +35,24 @@ product using the data product canvas technique
 allocating budget, and monitoring results
 
 ## Image list
-* [Figure 4.1 – Retail domain example ]()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Figure 4.1 – Retail domain example ](./images/chapter-04-Fig-01-subdomains.png)
+* [Figure 4.2 – Traditional approach to solution design](./images/chapter-04-Fig-02-Traditional-design.png)
+* [Figure 4.3 – Domain-driven methodology to solution design](./images/chapter-04-Fig-03-DDD.png)
+* [Figure 4.4 – Different relationships between subdomains and bounded contexts](./chapter-04-Fig-04-Strategic-design.png)
+* [Figure 4.5 – Aligning bounded contexts and subdomains](./images/chapter-04-Fig-05-Problem-solution-space.png)
+* [Figure 4.6 – The LuX business model canvas](./images/chapter-04-Fig-06-business-model-canva.png)
+* [Figure 4.7 – Value chain’s primary and support functions](./images/chapter-04-Fig-07-Value-chain.png)
+* [Figure 4.8 – The LuX value chain](./images/chapter-04-Fig-08-Value-chain-example.png)
+* [Figure 4.9 – LuX business capabilities ](./images/chapter-04-Fig-09-Business-capabilities.png)
+* [Figure 4.10 – LuX “Complete purchase” value stream](./images/chapter-04-Fig-10-Value-stream.png)
+* [Figure 4.11 – Capability mapping approaches](./images/chapter-04-Fig-11-Capability-mapping.png)
+* [Figure 4.12 – Business architecture elements and relationships]()
+* [Figure 4.14 – Events and commands flow]()
+* [Figure 4.15 – Event storming components and relationships]()
+* [Figure 4.16 – Complete purchase process analysis]()
+* [Figure 4.17 – Inventory data product]()
+* [Figure 4.18 – Identified data products]()
+* [Figure 4.19 – Data product canvas ]()
 
 ## Further reading 
 For more information on the topics covered in this chapter, please see the following resources: 
