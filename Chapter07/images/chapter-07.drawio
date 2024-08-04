@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T14:14:00.765Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ngi_xf4sg6M6f1esdGG0" version="24.6.4" type="google" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="7">
   <diagram id="b9yYEWysdcqQG_aisuCg" name="Fig-01-Value-network">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="aepiqruQgRPueh6RO-PG" name="Page-3">
+  <diagram id="aepiqruQgRPueh6RO-PG" name="Fig-03-Value-creation-engines">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -334,7 +334,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="JYkzL52Pb2OLSvqrpwJE" name="Page-4">
+  <diagram id="JYkzL52Pb2OLSvqrpwJE" name="Fig-04- Utility-plane">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -471,7 +471,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Page-4" id="rv4cpJMJq3wzY9XHc0BM">
+  <diagram name="Fig-05-Platform-capabilities" id="rv4cpJMJq3wzY9XHc0BM">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="1rWCVONJW0Z1KDUKTOpD-0" />
