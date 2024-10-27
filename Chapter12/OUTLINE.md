@@ -28,7 +28,9 @@ Specifically, we will highlight the core beliefs about data management that insp
 
 
 ## Image list
-* [Figure 12.1 - Organizational Chart](./images/chapter-09-Fig-01-Organizational-chart.png)
+* [Figure 12.1 - Data at core](./images/chapter-12-Fig-1-Data-function-role.png)
+* [Figure 12.2 - Data management beyond just managing data ](./images/chapter-12-Fig-2-Sociotechnical-problem.png)
+* [Figure 12.3 - Recommoning data management](./images/chapter-12-Fig-3-Recommoning-data-management.png)
 
 
 ## Further reading 
