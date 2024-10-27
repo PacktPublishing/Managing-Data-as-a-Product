@@ -32,4 +32,5 @@ leveraging the potential offered by modern generative AI solutions.
 * [Chapter 08 - Moving through the adoption journey](./Chapter08/OUTLINE.md)
 * [Chapter 09 - : Team topologies and data ownership at scale](./Chapter09/OUTLINE.md)
 * [Chapter 10 - Distributed data modeling](./Chapter10/OUTLINE.md)
-* [Chapter 11 - Data product strategy and Generative AI](./Chapter11/OUTLINE.md)
+* [Chapter 11 - Building an AI-Ready Information Architecture ](./Chapter11/OUTLINE.md)
+* [Chapter 12 - BBringing It All Together](./Chapter12/OUTLINE.md)
