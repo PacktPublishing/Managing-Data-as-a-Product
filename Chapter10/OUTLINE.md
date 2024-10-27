@@ -29,7 +29,22 @@ In this chapter, we will examine data modeling within a modular, decentralized a
 * **SKILL 3**: Understand the main techniques of conceptual data modeling (vocabularies, ontologies, etc.) and the ability to choose which one to use depending on the case. 
 
 ## Image list
-* [Figure 10.1 - Organizational Chart](./images/chapter-09-Fig-01-Organizational-chart.png)
+* [Figure 10.1 - Data modeling process and deliverables](./images/chapter-10-Fig-1-Data-modeling-process.png)
+* [Figure 10.2 - Sales star schema](./images/chapter-10-Fig-2-Star-schema.png)
+* [Figure 10.3 - Kimball Data Warehouse Architecture](./images/chapter-10-Page-3-Kimball.png)
+* [Figure 10.4 - Inmon Data Warehouse Architecture](./images/chapter-10-Fig-4-Inmon.png)
+* [Figure 10.5 - Distributed dimensional modeling](./images/chapter-10-Fig-5-Distributed-dimensional-modeling.png)
+* [Figure 10.6 - Data vault model](./images/chapter-10-Fig-6-Data-Vault-model.png)
+* [Figure 10.7 - Data Vault Architecture](./images/chapter-10-Fig-7-Data-architecture.png)
+* [Figure 10.8 - Distributed Data Vault modeling](./images/chapter-10-Fig-8-Distributed-data-vault.png)
+* [Figure 10.9 - Sales and shipments facts](./images/chapter-10-Fig-09-Sales-shipments.png)
+* [Figure 10.10 - Fan trap](./images/chapter-10-Fig-10-Fan-trap.png)
+* [Figure 10.11 - Chasm trap](./images/chapter-10-Fig-11-Chasm-trap.png)
+* [Figure 10.12 - Puppini Bridge](./images/chapter-10-Fig-12-Puppini-bridge.png)
+* [Figure 10.13 - Distributed modeling architecture](./images/chapter-10-Fig-13-Target-model.png)
+* [Figure 10.14 - Conceptual model types](./images/chapter-10-Fig-14-Conceptual-model-types.png)
+* [Figure 10.15 - Ontology](./images/chapter-10-Fig-15-Ontology.png)
+
 
 ## Further reading 
 For more information on the topics covered in this chapter, please see the following resources: 
