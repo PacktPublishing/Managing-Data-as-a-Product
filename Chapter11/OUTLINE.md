@@ -34,7 +34,23 @@ Finally, we'll explore how federated modeling teams can define knowledge models 
 
 
 ## Image list
-* [Figure 11.1 - Organizational Chart](./images/chapter-09-Fig-01-Organizational-chart.png)
+* [Figure 11.1 - Data](./images/chapter-11-Fig-1-Data.png)
+* [Figure 11.2 - Weather forecast information](./images/chapter-11-Fig-2-Information.png)
+* [Figure 11.3 - Food Corp Domain Knowledge](./images/chapter-11-Fig-3-Knowledge.png)
+* [Figure 11.4 - Information Architecture Pyramid](./images/chapter-11-Fig-4-Information-architecture.png)
+* [Figure 11.5 - Information plane](./images/chapter-11-Fig-5-Information-plane.png)
+* [Figure 11.6 - Semantic gap between subdomains](./images/chapter-11-Fig-6-Semantic-gap.png)
+* [Figure 11.7 - Knowledge plane](./images/chapter-11-Fig-7-Knowledge-plane.png)
+* [Figure 11.8 - The cost of not modeling knowledge](./images/chapter-11-Fig-8-Hidden-costs.png)
+* [Figure 11.9 - Enterprise ontology](./images/chapter-11-Fig-9-Enterprise-ontology.png)
+* [Figure 11.10 - Sample of GIST’s concepts and relationships](./images/chapter-11-Fig-10-GIST.png)
+* [Figure 11.11 - The federated model of product entity](./images/chapter-11-Fig-11-Federated-product-model.png)
+* [Figure 11.12 - Knowledge Domain](./images/chapter-11-Fig-12-Knowledge-domains.png)
+* [Figure 11.13 - Building the information architecture one product at a time](./images/chapter-11-Fig-13-Incremental-dev.png)
+* [Figure 11.14 - Knowledge Mesh](./images/chapter-11-Fig-14-Knowledge-mesh.png)
+* [Figure 11.15 - Knowledge Graph Architectures](./images/chapter-11-Fig-15-KG.png)
+* [Figure 11.16 - Enterprise Knowledge Graph](./images/chapter-11-Fig-16-EKG.png)
+* [Figure 11.17 - Enterprise Knowledge Graph Development Process](./images/chapter-11-Fig-17-One-product-at-a-time.png)
 
 
 ## Further reading 
