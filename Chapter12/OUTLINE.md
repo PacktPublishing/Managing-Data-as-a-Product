@@ -1,15 +1,15 @@
-# 11 - Building an AI-Ready Information Architecture 
+# 12 - Bringing It All Together
 
 ## Description
 In this chapter, we will review what has been presented in the previous chapters, connecting the dots. 
 Specifically, we will highlight the core beliefs about data management that inspired this entire book and offer practical advice for becoming a more successful practitioner.
 
 ## Chapter Headings  
-* **Beliefs**
+* **Core beliefs shaping the future of data management**
   * Data management is not anymore a supporting function 
   * Data management is not just about data  
   * Data management is not just an IT responsibility 
-* **Suggestions**
+* **Setting yourself up for success**
   * Be optimist, not naïve 
   * Be a reflective practitioner, not a methodological purist 
   * Focus on the system, not on the parts
