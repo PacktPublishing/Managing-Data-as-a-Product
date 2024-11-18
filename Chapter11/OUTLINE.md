@@ -14,9 +14,9 @@ Finally, we'll explore how federated modeling teams can define knowledge models 
   * Knowledge plane
 * **Managing enterprise knowledge**
   * Enterprise ontology
-   *  Upper ontology
-   *  Domain ontology
-   *  Subdomain ontologies 
+    * Upper ontology
+    * Domain ontology
+    * Subdomain ontologies 
   * Federated modeling team 
   * Managing knowledge as a product 
 * **Building an enterprise knowledge graph**
