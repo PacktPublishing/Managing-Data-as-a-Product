@@ -9,15 +9,18 @@ Finally, we'll explore how federated modeling teams can define knowledge models 
 ## Chapter Headings  
 * **Exploring Information Architecture**
   * Data assets 
-  * Information Architecture Pyramid 
-  * Information Plane 
-  * Knowledge Plane
+  * Information architecture pyramid 
+  * Information plane 
+  * Knowledge plane
 * **Managing enterprise knowledge**
-  * Enterprise ontology 
+  * Enterprise ontology
+   *  Upper ontology
+   *  Domain ontology
+   *  Subdomain ontologies 
   * Federated modeling team 
   * Managing knowledge as a product 
 * **Building an enterprise knowledge graph**
-  * Connecting data and knowledge plane 
+  * Knowledge graph architectures
   * Connecting data and knowledge plane
   * Knowledge-driven data management
 * **Leveraging Modern AI**
